@@ -1,0 +1,26 @@
+* {
+  margin: 5px 0px 5px 0px ;/*ou 5px 0px(cima e direita)*/
+  font-family: 'Bellota', cursive;
+}
+
+.site {
+  background-color : #FFFFFF;
+  width : 800px;/*largura de um elemento*/
+  margin: 50px auto;
+  padding: 50px;
+}
+
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSIZ4lny0xgsNH0aCAHJLe7TFDGyQ5nzwHmTZf1N40eYQW2PWp');
+}
+.site .conteudo{
+  /*background-color: green;*/
+  min-height: 300px;
+  margin: 15px 0px;
+  padding: 15px 0px;
+  border-top: solid 1px  #ADADAD;
+  border-bottom: solid 1px  #ADADAD;
+}
+.site .topo, .site .rodape{
+  text-align: center;
+}
