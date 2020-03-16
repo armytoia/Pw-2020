@@ -13,13 +13,16 @@
 body {
   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSIZ4lny0xgsNH0aCAHJLe7TFDGyQ5nzwHmTZf1N40eYQW2PWp');
 }
-.site .conteudo{
+.site .conteudo {
   /*background-color: green;*/
   min-height: 300px;
   margin: 15px 0px;
   padding: 15px 0px;
   border-top: solid 1px  #ADADAD;
   border-bottom: solid 1px  #ADADAD;
+}
+.site .conteudo .noticias{
+  font-size: 10px;
 }
 .site .topo, .site .rodape{
   text-align: center;
