@@ -1,5 +1,6 @@
   * {
     margin: 5px 0px 5px 0px ;/*ou 5px 0px(cima e direita)*/
+    font-family: 'Bellota', cursive;
   }
 
   .site {
@@ -7,10 +8,11 @@
     width : 800px;/*largura de um elemento*/
     margin: 50px auto;
     padding: 50px;
+    border-radius: 25px;
   }
 
   body {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSIZ4lny0xgsNH0aCAHJLe7TFDGyQ5nzwHmTZf1N40eYQW2PWp');
+    background-image: url('https://3.bp.blogspot.com/-GcOI_-5RYoQ/UV8g6rjOmdI/AAAAAAAB57o/pf8g3Qj6hbw/s1600/fundos-para-blog-e-sites+(4).png');
   }
   .site .conteudo {
     /*background-color: green;*/
@@ -79,14 +81,28 @@
 .menu a:hover{
   background-color: #00a3cc;
 }
-.conteudo h3{
+.noticias h3{
 font-family: 'Permanent Marker', cursive;
 font-size: 20px;
+padding: 5px 5px;
+margin-top: 20px;
+border-radius: 20px;
 }
 .conteudo img{
   width : 400px;/*largura de um elemento*/
 }
-.conteudo p{
+.noticias p{
   font-size: 16px;
-  font-family: 'Bellota', cursive;
+  text-align: justify;
+}
+.noticias h4{
+  font-size: 18px;
+  padding: 5px 5px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+.noticias table td, .noticias table th{
+  border-bottom: solid 1px #DADADA;
+  padding: 5px 1px;
+
 }

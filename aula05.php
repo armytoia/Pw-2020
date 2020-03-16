@@ -10,7 +10,7 @@
     <body>
       <div class = "site">
         <div class = "topo">
-          <h2>Topo do site</h2>
+          <h2>Notícias</h2>
           <div class="menu">
             <ul>
               <li><a href= "#">início</a></li>
@@ -22,12 +22,11 @@
           </div>
           </div>
           <div class = "conteudo">
-            <h3>Criação de Botões</h3>
               <a href="#" class = "botao botao-azul">Botão Azul</a>
               <a href="#" class = "botao botao-vermelho">Botão Vermelho</a>
               <a href="#" class = "botao botao-rosa">Botão Rosa</a>
               <div class="noticias">
-                <h3>Últimas notícias de coronavírus de 1º de março<h3>
+                <h3>Últimas notícias de coronavírus de 1º de março</h3>
                 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUJJPz-mQcz6vSxfYBhXE8AU-jevRk_gqb-IzPuOwpXL-dpAty">
                 <p>Na noite deste domingo, a China registrou 202 novos casos de coronavírus, elevando o número total para 80.026. O número de novas mortes foi de 42, totalizando 2.912 desde o início do surto.</p>
                 <p>Mais cedo, a Inglaterra anunciou 13 novos casos registrados, levando o total para 36. Ainda na Europa, o museu mais famoso de Paris, o Louvre, foi fechado na parte da manhã para que funcionários participassem de uma reunião sobre o covid-19.</p>
@@ -38,7 +37,7 @@
 
                 <p>Dados da Prova Brasil 2013 compilados pelo Portal QEdu mostram que o índice de alunos de escolas públicas que terminam o ensino fundamental com nível de aprendizado considerado adequado em matemática foi de 11,2% para os estudantes do 9º ano, índice inferior ao registrado na prova anterior, de 2011, quando a média foi de quase 12%. Já em português, com ênfase em leitura, a prova apresentou uma melhora de 22,2% para 23,6% no índice de alunos com aprendizado adequado.</p>
                 <p>Nas avaliações para o final do primeiro ciclo do ensino fundamental, no 5º ano, também houve melhora em português (de 36,2% em 2011, para 39,8% em 2013) e matemática (de 32,4% para 34,7%).</p>
-                <h3>Índices de proeficiência dos alunos de 5° e 9° ano do Ensino Fundamental na prova Brasil</h3>
+                <h4>Índices de proeficiência dos alunos de 5° e 9° ano do Ensino Fundamental na prova Brasil</h4>
 
                   <table style="width:80%">
                     <tr>
